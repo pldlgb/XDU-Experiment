@@ -1,0 +1,5 @@
+origin is (220, 220);
+scale is (25, 25);    //abd
+for t from 0 to 2*pi step pi/100 draw(cos(t), sin(t));
+
+
